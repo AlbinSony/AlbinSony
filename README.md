@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on react chat app<br>🤝 I’m looking for help with node js<br>🌱 I’m currently learning node js<br>💬 Ask me about react,javascript,html,css<br>
+🔭 I’m currently working on some Next.js Projects<br>🤝 I’m looking for help with node js<br>🌱 I’m currently learning node js<br>💬 Ask me about react,javascript,html,css<br>
 
 
 ## 🌐 Socials:
