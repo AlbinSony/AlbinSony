@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working on Some Node Projects<br>Ask me About React,NEXT,Node etc..<br>Connect me @ https://www.linkedin.com/in/albin-sony/
+I'm Currently Working on Some Node Projects<br>Ask me About React,NEXT,Node etc..<br>Connect me @ albinsonydev@gmail.com
 
 
 ## 🌐 Socials:
