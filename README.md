@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working on Some Next.js Projects<br>Ask me About Web,Dsa, Digital Marketing etc..<br>Connect with me @ albinsonydev@gmail.com
+I'm Currently Working on Some Next.js and ML Projects<br>Ask me About Web,Dsa, Digital Marketing etc..<br>Connect with me @ albinsonydev@gmail.com
 
 
 ## 🌐 Socials:
