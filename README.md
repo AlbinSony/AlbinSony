@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm Currently Working on Some Next.js and ML Projects<br>Ask me About WEB,DSA etc<br>Connect with me @ albinsonydev@gmail.com
+Full Stack Developer
 
 
 ## 🌐 Socials:
