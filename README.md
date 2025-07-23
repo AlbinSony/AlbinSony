@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albin</h1>
 <h3 align="center">Full Stack Developer || Cyber Security</h3>
 
-- 👨‍💻 Portfolio [albinsony.live](www.albinsony.live)
+- 👨‍💻 Portfolio [https://albinsony.live](https://albinsony.live)
 
 - 📝 I regularly write articles on [https://albinsony.substack.com/](https://albinsony.substack.com/)
 
